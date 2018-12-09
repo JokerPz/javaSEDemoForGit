@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.joker.excel;
 
 import java.io.File;
